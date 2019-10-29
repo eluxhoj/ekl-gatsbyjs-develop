@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Stuff that Interests Me
+title: Consumer Electronics Show Report
 image: /img/home-jumbotron.jpg
 heading: Stuff that interests me
 subheading: Support sustainable farming while enjoying a cup

@@ -5,17 +5,19 @@ image: /img/home-jumbotron.jpg
 heading: Stuff that interests me
 subheading: Let's see what is new in tech in 2020
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: What is CES?
+  description: >-
+    The consumer electronics show in Las Vegas is the largest meeting of tech
+    vendors in the world. The meeting is always the first week of January each
+    year and features the latest tech gear available.  There are many different
+    levels of vendor booths at the show including a "Wild West" of tech
+    offerings in one big hall. There is a display of the award winning tech for
+    the year as well as huge booths from either Amazon or Google (depending on
+    the year - they trade off showing each other up).  
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  CES is just an awesome place to go if you want to know what is happening in
+  tech for that year, and a great way to detect tech trends. See what's hot and
+  what is not. 
 intro:
   blurbs:
     - image: /img/coffee.png

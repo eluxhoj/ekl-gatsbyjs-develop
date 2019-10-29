@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Stuff that Interests Me
 image: /img/home-jumbotron.jpg
 heading: Stuff that interests me
 subheading: Support sustainable farming while enjoying a cup

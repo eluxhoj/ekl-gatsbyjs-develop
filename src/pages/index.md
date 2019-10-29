@@ -3,7 +3,7 @@ templateKey: index-page
 title: Consumer Electronics Show Report
 image: /img/home-jumbotron.jpg
 heading: Stuff that interests me
-subheading: Support sustainable farming while enjoying a cup
+subheading: Let's see what is new in tech in 2020
 mainpitch:
   title: Why Kaldi
   description: >

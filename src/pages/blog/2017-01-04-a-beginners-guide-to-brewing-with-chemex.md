@@ -3,9 +3,9 @@ templateKey: blog-post
 title: Outlook for CES 2020
 date: 2019-10-29T14:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  5G phones, tv's you can see through and fast portable computers are all
+  expected to be prominent at CES in 2020 (source: techradar -
+  https://www.techradar.com/news/ces-2020).
 featuredpost: false
 featuredimage: /img/2019-10-29_15-39-03.png
 tags:

@@ -25,7 +25,7 @@ intro:
         What will 2020 hold for 3D printers? At CES 2019 there was a very nice
         display of 3D resin printers by Formlabs.  Which printer type will win
         out at CES2020 or has the market gone cold for the technology?
-    - image: /img/drone.png
+    - image: /img/dronefinal.png
       text: >
         What will we see in new drone tech at CES2020? At CES2019 there were a
         lot of drones to look at.  There were underwater drones made to look

@@ -34,7 +34,7 @@ intro:
         home base.  There was a huge people mover drone made by Bell Helicopter.
         There were individual drones that people could fly. They looked like
         motorcycles with propellers.  
-    - image: /img/smarthome.png
+    - image: /img/smarthomefinal.png
       text: >
         Will we see more smarthome tech in 2020?  At CES2019 we saw lots of
         z-wave products, so many smart door locks that we couldn't keep track

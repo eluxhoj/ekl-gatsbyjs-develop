@@ -3,7 +3,7 @@ templateKey: index-page
 title: Consumer Electronics Show Report
 image: /img/2019-10-29_15-39-03.png
 heading: Stuff that interests me
-subheading: Let's see what is new in tech in 2020
+subheading: Let's see what's new in tech in 2020
 mainpitch:
   title: What is CES?
   description: >-

@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Consumer Electronics Show Report
-image: /img/home-jumbotron.jpg
+image: /img/2019-10-29_15-39-03.png
 heading: Stuff that interests me
 subheading: Let's see what is new in tech in 2020
 mainpitch:

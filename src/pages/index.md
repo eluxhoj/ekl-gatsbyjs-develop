@@ -40,7 +40,7 @@ intro:
         z-wave products, so many smart door locks that we couldn't keep track
         and even some security cameras with embedded AI.  We are excited to see
         if the smarthome segment continues to grow in 2020. 
-    - image: /img/cartech.png
+    - image: /img/cartechfinal.png
       text: >
         CES2019 was loaded with car tech including some really fancy headlights
         by Audi, autonomous vehicle tech from pretty much all the manufacturers,

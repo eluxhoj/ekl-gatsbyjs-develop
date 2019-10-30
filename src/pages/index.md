@@ -21,32 +21,32 @@ description: >-
 intro:
   blurbs:
     - image: /img/3dprintericon.png
+      text: >-
+        What will 2020 hold for 3D printers? At CES 2019 there was a very nice
+        display of 3D resin printers by Formlabs.  Which printer type will win
+        out at CES2020 or has the market gone cold for the technology?
+    - image: /img/drone.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        What will we see in new drone tech at CES2020? At CES2019 there were a
+        lot of drones to look at.  There were underwater drones made to look
+        like sharks, dolphins and smaller creatures. There was a drone from
+        Russia that charged it self while hovering in a designated area at its
+        home base.  There was a huge people mover drone made by Bell Helicopter.
+        There were individual drones that people could fly. They looked like
+        motorcycles with propellers.  
+    - image: /img/smarthome.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Will we see more smarthome tech in 2020?  At CES2019 we saw lots of
+        z-wave products, so many smart door locks that we couldn't keep track
+        and even some security cameras with embedded AI.  We are excited to see
+        if the smarthome segment continues to grow in 2020. 
+    - image: /img/cartech.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        CES2019 was loaded with car tech including some really fancy headlights
+        by Audi, autonomous vehicle tech from pretty much all the manufacturers,
+        some electric vehicle tech from the major players and more.  We are
+        looking forward to seeing what CES2020 holds as car tech continues to
+        advance. 
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
